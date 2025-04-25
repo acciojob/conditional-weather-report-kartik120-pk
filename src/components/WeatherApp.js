@@ -2,7 +2,7 @@
 import React from "react"
 
 
-const WeatherDisplay = ({data})=>{
+const WeatherApp = ({data})=>{
     const {temperature,conditions} = data;
   return (
   <div>
@@ -13,5 +13,5 @@ const WeatherDisplay = ({data})=>{
 )
 }
 
-export default WeatherDisplay
+export default WeatherApp
 
