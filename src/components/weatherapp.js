@@ -14,3 +14,4 @@ const WeatherDisplay = ({data})=>{
 }
 
 export default WeatherDisplay
+
